@@ -10,7 +10,7 @@ Usage:
     09.02. Father
     14.04. Grandma
     15.05. Dog
-    16.05. Get acknolegded
+    16.05. Get acknowlegded
     03.08. Wedding
 
 2. When run ``Birthdays.exe C:\Users\kostya\BitTorrentSynced\birthdays.txt``
