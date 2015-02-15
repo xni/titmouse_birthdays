@@ -1,6 +1,6 @@
 A tiny C++ WinAPI program for parsing a file with birthday dates and showing notifications.
 
-You can git it's binaries [here](https://yadi.sk/d/3JUvq5LgegeYy).
+You can get it's binaries [here](https://yadi.sk/d/3JUvq5LgegeYy).
 
 Usage:
 1. Create a database-file, eg. ``C:\Users\kostya\BitTorrentSynced\birthdays.txt`` with a format like this:
